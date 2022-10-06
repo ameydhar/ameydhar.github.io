@@ -9,8 +9,7 @@ last_name: Porobo Dharwadker
 email: ameydhar@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Staff Machine Learning Engineer at Meta (previously known as Facebook) in California USA, leading personalization for video recommender systems.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Amey, Porobo, Dharwadker, Columbia, NIT Tiruchirappalli, Analog Devices, Machine learning, ML, Deep Learning, Recommender System, Information Retrieval  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
