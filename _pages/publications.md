@@ -5,7 +5,7 @@ title: Publications
 description: Publications by categories in reversed chronological order.
 years: [2020, 2010] # [1967, 1956, 1950, 1935, 1905]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
