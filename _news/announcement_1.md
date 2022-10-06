@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-24 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Patent Issued - [Embeddings for Feed and Pages](https://patents.google.com/patent/US10846614B2) (Filed 03/2017)
