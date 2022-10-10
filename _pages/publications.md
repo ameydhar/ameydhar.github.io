@@ -34,7 +34,6 @@ nav_order: 2
 <br>
   <h3>Technical Program Committee / Reviewer</h3>
 <ul>
-  <li><a href="https://aistats.org/aistats2023/">26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)</a></li>
-  <li><a href="https://ecir2023.org/">45th European Conference on Information Retrieval (ECIR 2023)</a></li>
+  <li>Interesting works in progress, updates coming soon!</li>
 </ul>
 </div>
