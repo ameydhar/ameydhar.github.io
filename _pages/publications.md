@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: List of publications, patents and service.
+keywords: machine learning, recommender system, deep learning, information retrieval, scene text recognition, embeddings, artificial intelligence
 nav: true
 nav_order: 2
 ---

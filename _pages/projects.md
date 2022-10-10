@@ -3,14 +3,13 @@ layout: page
 title: Works
 permalink: /projects/
 description: List of cool projects, presentations and talks.
+keywords: data mining, recommender systems, scene text detection, image aesthetics, computer vision, data visualization
 nav: true
 nav_order: 1
-# display_categories: # [work, fun]
-# horizontal: true
 ---
 <div><h3>Projects</h3></div>
 
-* **Large-scale Action Recognition in Videos**  
+* **Large-scale Robust Video Action Recognition**  
 *Columbia University, New York*
   * Extracted dense trajectory features (HOG, HOF, MBH) for human action recognition in videos captured in realistic unconstrained environments.
   * Proposed spatio-temporal covariance descriptors on the computed dense trajectories to fuse correlated features and create a low-dimensional feature representation.
@@ -34,7 +33,7 @@ nav_order: 1
   * Supported browsing large database of news stories aggregated from multiple websites and presented as story maps.
 <br><br>
 
-* **Text Detection in Natural Scene Images**  
+* **Scene Text Detection in Natural Images**  
 *Indian Institute of Science, Bengaluru*
   * Developed algorithms to segment foreground text from word images in the ICDAR 2003 Robust Reading Competition Word Dataset.
   * Proposed algorithms for localizing text regions in natural scene images from the ICDAR 2003 Dataset.
