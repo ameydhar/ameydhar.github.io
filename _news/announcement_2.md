@@ -5,7 +5,7 @@ date: 2015-01-05 10:00:00-0700
 inline: true
 ---
 
-Joined Facebook, Menlo Park full-time as Software Engineer.
+Joined Facebook, Menlo Park full-time as Machine Learning Software Engineer.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

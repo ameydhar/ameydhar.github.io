@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Staff Machine Learning (ML) Engineer at Facebook, leading the Video Recommendations Team, focusing on user personalization models. Prior to that, I also delivered significant improvements for Feed Ranking and Ads Ranking models at Facebook since 2015.
+I am a Staff Machine Learning Engineer at Facebook, leading the Video Recommendations Team, focusing on user personalization models. Prior to that, I also delivered significant improvements for Feed Ranking and Ads Ranking models at Facebook since 2015.
 
 I graduated from [Columbia University](https://www.columbia.edu/) with MS in Electrical Engineering specializing in Computer Vision. I worked with [Prof. Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang) on Video Action Recognition in the Wild.
 
