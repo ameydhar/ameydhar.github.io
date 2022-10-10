@@ -1,58 +1,41 @@
 ---
 layout: page
-title: Projects
+title: Works
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: List of cool projects, presentations and talks.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: false
+# display_categories: # [work, fun]
+# horizontal: true
 ---
+<div><h3>Projects</h3></div>
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+* **Large-scale Action Recognition in Videos**  
+*Columbia University, New York*
+  * Extracted dense trajectory features (HOG, HOF, MBH) for human action recognition in videos captured in realistic unconstrained environments.
+  * Proposed spatio-temporal covariance descriptors on the computed dense trajectories to fuse correlated features and create a low-dimensional feature representation.
+<br><br>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+* **Predicting Visual Aesthetics in Face Photos**  
+*Columbia University, New York*
+  * Utilized photographic compositional features and rules to develop an algorithmic approach to quantify aesthetic quality of photos containing faces.
+  * Built SVM classifiers to score face photos similar to human aesthetics judgement predictions.
+<br><br>
+
+* **Linking Internet and Broadcast TV News**  
+*Columbia University, New York*
+  * Explored automatic speech transcription and other natural language processing (NLP) techniques for robust internet and broadcast TV news video linking.
+  * Evaluated the approach on NewsRover live database of Youtube and broadcast videos and proposed further improvements.
+<br><br>
+
+* **MapMyNews: Aggregated World News Visualization**  
+*Columbia University, New York*
+  * Built a web application that combined interactive maps with rich content to develop intuitive yet appealing news geo-visualizations.
+  * Supported browsing large database of news stories aggregated from multiple websites and presented as story maps.
+<br><br>
+
+* **Text Detection in Natural Scene Images**  
+*Indian Institute of Science, Bengaluru*
+  * Developed algorithms to segment foreground text from word images in the ICDAR 2003 Robust Reading Competition Word Dataset.
+  * Proposed algorithms for localizing text regions in natural scene images from the ICDAR 2003 Dataset.
+<br><br>

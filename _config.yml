@@ -13,11 +13,11 @@ footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jeky
 keywords: Amey, Porobo, Dharwadker, Columbia, NIT Tiruchirappalli, Analog Devices, Machine learning, ML, Deep Learning, Recommender System, Information Retrieval  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: A̲ # 𝔸 # ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ameydhar.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -107,7 +107,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: # Blog # Enable this to enable blog, your blog must have a title for it to be displayed in the nav bar
 blog_description: # a simple whitespace theme for academics
 permalink: /blog/:title/
 
@@ -208,7 +208,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: # [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag
@@ -301,7 +301,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
+enable_project_categories:  false  #true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
