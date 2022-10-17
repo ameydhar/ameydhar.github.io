@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2014-12-23 18:00:00-0500
+date: 2022-09-30 15:59:00-0400
 inline: true
 ---
 
-Graduated from Columbia University with MS in EE specializing in Computer Vision.
+Invited as reviewer for [AISTATS 2023](http://aistats.org/aistats2023/) Conference.
