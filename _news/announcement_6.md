@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-15 15:59:00-0400
+date: 2022-11-28 10:00:00-0700
 inline: true
 ---
 
-Serving as Program Committee Member for [UMAP 2023](https://www.um.org/umap2023/) Conference.
+Thoughts on how AI helps people with disabilties featured in [this Lifewire article](https://www.lifewire.com/how-new-ai-technology-helps-people-with-disabilities-but-introduces-discrimination-6833099).

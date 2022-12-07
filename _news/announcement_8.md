@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-29 15:59:00-0400
+date: 2022-11-30 10:00:00-0700
 inline: true
 ---
 
-Expert commentary on impact of AI generative art on kids featured in [this Lifewire article](https://www.lifewire.com/amazons-new-ai-art-tool-can-help-kids-make-art-or-stifle-creativity-6833604).
+Serving as Program Committee Member for [UMAP 2023](https://www.um.org/umap2023/) Conference.
