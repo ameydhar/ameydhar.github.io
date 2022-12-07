@@ -34,9 +34,10 @@ nav_order: 2
 <br>
   <h3>Technical Program Committee / Reviewer</h3>
 <ul>
-  <li><a href="https://www2023.thewebconf.org/">International World Wide Web Conference (WWW 2023)</a></li>
+  <li><a href="https://www2023.thewebconf.org/">32nd International World Wide Web Conference (WWW 2023)</a></li>
   <li><a href="https://ecir2023.org/">45th European Conference on Information Retrieval (ECIR 2023)</a></li>
   <li><a href="http://aistats.org/aistats2023/">26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)</a></li>
+  <li><a href="http://aistats.org/aistats2023/">31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)</a></li>
   <li><a href="https://ieeeaccess.ieee.org/">IEEE Access (Impact Factor: 3.476)</a></li>
 </ul>
 </div>
